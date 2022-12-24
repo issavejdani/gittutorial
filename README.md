@@ -464,6 +464,7 @@ feel free to use these emojis: https://gist.github.com/rxaviers/7360908 :relaxed
 - [reyhaneh :computer: ](https://github.com/reyhaneh-moayeri)
 - [Amir :sunglasses:](https://github.com/root-77)
 - [Alireza Safari:sunglasses:](https://github.com/alireza0sfr)
+- [Issa Vejdani](https://github.com/issavejdani)
 - [Armin Nasirfam :computer: ](https://github.com/Armiin98)
 - [Hessam :smile: ](https://github.com/hessam6969)
 - [Hamidreza ](https://github.com/hamidrezakhosroabadi)
